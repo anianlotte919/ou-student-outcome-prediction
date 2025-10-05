@@ -1,0 +1,10 @@
+name: ou-ml
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn>=1.3
+  - matplotlib
+  - jupyter
