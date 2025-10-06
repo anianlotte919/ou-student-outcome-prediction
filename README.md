@@ -18,7 +18,7 @@ We predict student final outcomes (*Distinction, Pass, Fail, Withdrawn*) based o
 - *Withdrawn* students are identified with high recall (~0.96).
 
 <p align="center">
-  <img src="figures/confusion_matrix.png" alt="Normalized Confusion Matrix (5-Fold CV)" width="430"/>
+  <img src="figuresconfusion_matrix.png" alt="Normalized Confusion Matrix (5-Fold CV)" width="430"/>
 </p>
 
 ---
