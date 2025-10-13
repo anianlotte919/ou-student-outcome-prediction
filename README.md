@@ -13,8 +13,8 @@ This project uses machine learning to predict student outcomes (Pass, Fail, With
 ## Author
 
 **Yun Xia**
-Email: yuxi8959@colorado.edu
-Course: Introduction to Machine Learning: Supervised Learning
+Email: yuxi8959@colorado.edu  
+Course: Introduction to Machine Learning: Supervised Learning  
 Date: October 2025
 
 ## Key Results
